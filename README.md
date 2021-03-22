@@ -1,2 +1,5 @@
 # Discord-CustomRPC
-npm i discord-rpc
+modules;
+discord-rpc
+node-fetch
+ws
