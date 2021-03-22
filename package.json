@@ -1,0 +1,15 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord RPC",
+  "main": "index.js",
+  "dependencies": {
+    "discord-rpc": "https://github.com/spr41n/Discord-CustomRPC"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "sprain",
+  "license": "ISC"
+}
